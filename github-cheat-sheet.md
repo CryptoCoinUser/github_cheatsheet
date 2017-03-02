@@ -11,7 +11,7 @@
 
 #How do I host my website on GitHub?
   GitHub has a nice feature, called GitHub pages, that allows you to host your HTML pages. Once you have a local repo, and a GitHub repo, and your changes are pushed up to GitHub, you are ready to make a new branch.
-To make a branch type ‘git checkout -b [branchName]’ Branches are very useful, and are explained later. To get your page hosted on GitHub, you will need ‘git checkout -b gh-pages’ which will create the pages branch. Then, ‘git push origin gh-pages’ will send your new branch to GitHub, and you can find your page at https://[username].github.io/[repoName]
+To make a branch type <br />git checkout -b [branchName]<br /> Branches are very useful, and are explained later. To get your page hosted on GitHub, you will need <br />git checkout -b gh-pages<br /> which will create the pages branch. Then, <br />git push origin gh-pages<br /> will send your new branch to GitHub, and you can find your page at <br />https://[username].github.io/[repoName]
 
 #Why isn’t my GitHub pages working?
   Does your gh-pages branch exist?
